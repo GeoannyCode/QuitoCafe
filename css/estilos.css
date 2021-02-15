@@ -72,3 +72,43 @@ header .textos h3{
     font-style: italic;
     text-shadow: 2px 2px #493323
 }
+
+.main{
+    background: url('../img/subtle_white_feathers/subtle_white_feathers.png');
+    background-repeat: repeat;
+}
+
+.main .inicio .contenedor{
+    overflow: visible;
+    position: relative;
+}
+
+.main .inicio .foto img{
+    width: 50%;
+    margin-top: -50px;
+    position:absolute;
+    z-index: 0;
+    box-shadow: 0px 0px 15px rgba(0, 0, 0, .40);
+    vertical-align: top;
+}
+
+.main .inicio .article{
+    background: white;
+    padding: 40px;
+    width: 40%;
+    position: relative;
+    z-index: 1;
+    float: right;
+    box-shadow: 0px 0px 15px rgba(0, 0, 0, .40);
+    margin-top: 200px
+}
+.main .inicio .article h3{
+    font-weight: 50px;
+    font-weight: 300px;
+    margin-bottom: 40px;
+}
+
+.main .inicia .article p{
+    line-height: 28px;
+    margin-top: 40px;
+}
