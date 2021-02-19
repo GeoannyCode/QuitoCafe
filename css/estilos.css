@@ -100,7 +100,7 @@ header .textos h3{
     z-index: 1;
     float: right;
     box-shadow: 0px 0px 15px rgba(0, 0, 0, .40);
-    margin-top: 200px
+    margin-top: 200px;
 }
 .main .inicio .article h3{
     font-weight: 50px;
@@ -248,4 +248,112 @@ footer .contenedor .copyright{
     text-align: center;
     padding: 15px 0;
     color: aliceblue;
+}
+
+@media screen and (max-width: 800px){
+
+    header .contenedor{
+        position: static;
+        /*height: auto;*/
+        height: 600px;
+    }
+
+    header .textos{
+        /*position: static;
+        margin: 100px 0px;
+        width: 100%;*/
+        color: aliceblue;
+        position: absolute;
+        top: 50%;
+        margin-top: -52px;
+        padding-right: 40px;
+    }
+
+    header .menu{
+        text-align: center;
+    }
+
+    header .menu a{
+        margin: 10px 20px;
+    }
+
+    header .textos .nombre{
+        font-size: 30px;
+    }
+
+    header .textos h3{
+        font-size: 18px;
+    }
+
+    .main .inicio .foto img{
+        width: 90%;
+        position:absolute;
+    }
+
+    .main .inicio .article{
+        position: relative;
+        width: 100%;
+        top: 50px;
+        margin-bottom: 100px;
+        transform: translate(0px, 0);
+    }
+
+    .main .menu article{
+        width: 100%;
+    }
+
+    .main .galeria .foto{
+        width: 50%;
+    }
+
+    .main .mapa{
+        width: 90%;
+        margin: auto;
+        margin: 1px solid grey;
+    }
+}
+
+
+@media screen and (max-width: 400px){
+    .main .inicio .article h3 {
+        font-size: 34px;
+        margin-bottom: 10px;
+    }
+
+    .main .inicio .foto img{
+        width: 90%;
+        position:absolute;
+    }
+
+    .main .inicio .article{
+        position: relative;
+        width: 100%;
+        top: -20px;
+        margin-bottom: 100px;
+        transform: translate(0px, 0);
+    }
+
+    .main .menu{
+        margin-top: -80px;
+    }
+
+    .main .menu .article .nombre,
+    .main .menu .article .precio{
+        font-size: 16px;
+        line-height: 16px;
+    }
+
+    .main .ubicacion .direccion,
+    .main .ubicacion .horarios{
+        width: 100%;
+        text-align: center;
+    }
+
+    .main .ubicacion .horarios{
+        margin-top: 25px;
+    }
+
+    .main .galeria .foto{
+        width: 100%;
+    }
 }
