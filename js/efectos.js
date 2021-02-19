@@ -26,7 +26,8 @@ $(document).ready(function(){
         galeria = $('#galeria').offset().top,
         ubicacion = $('#ubicacion').offset().top;
 
-    $('#btn-inicio').on('click', function(){
+    $('#btn-inicio').on('click', function(e){
+        e.preventDefault();
         $('html, body').animate({
             scrollTop: 480
         }, 1000);
