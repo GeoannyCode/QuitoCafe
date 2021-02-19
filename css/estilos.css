@@ -96,11 +96,12 @@ header .textos h3{
     background: white;
     padding: 40px;
     width: 40%;
-    position: relative;
+    position:relative;
     z-index: 1;
     float: right;
     box-shadow: 0px 0px 15px rgba(0, 0, 0, .40);
-    margin-top: 200px;
+    margin-top: 100px;
+    top: 240px;
 }
 .main .inicio .article h3{
     font-weight: 50px;
@@ -253,8 +254,7 @@ footer .contenedor .copyright{
 @media screen and (max-width: 800px){
 
     header .contenedor{
-        position: static;
-        /*height: auto;*/
+        height: auto;
         height: 600px;
     }
 
