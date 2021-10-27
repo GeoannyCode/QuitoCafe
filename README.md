@@ -1,6 +1,6 @@
 # QuitoCafe
 
-Pagina Web para cafetería.
+Página Web para cafetería.
 
 ## Ver 🚀
 
