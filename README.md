@@ -10,7 +10,7 @@ https://coffe-page.netlify.app
 * HTML
 * CSS
 * JavaScript
-* [Bootstrap](https://developers.giphy.com/)
+* [Bootstrap](https://getbootstrap.com/)
 
 ## Autor ✒️
 
