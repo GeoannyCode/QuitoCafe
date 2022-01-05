@@ -24,4 +24,4 @@ https://coffe-page.netlify.app
 * [cafecito.app](https://cafecito.app/geovannydev)
 
 ---
-⌨️ con ❤️ por [dgbracero](https://github.com/dgbracero) 😊
+⌨️ con ❤️ por [geovannydev](https://github.com/geovannydev) 😊
