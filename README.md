@@ -19,7 +19,9 @@ https://coffe-page.netlify.app
 ## Expresiones de Gratitud 🎁
 
 * Comenta a otros sobre este proyecto 📢
-* Invitame una cerveza 🍺 o un café ☕ Paypal: diegobracero@yahoo.com. 
+* Invitame un café ☕: 
+* [ko-fi](https://ko-fi.com/geovannydev) 
+* [cafecito.app](https://cafecito.app/geovannydev)
 
 ---
 ⌨️ con ❤️ por [dgbracero](https://github.com/dgbracero) 😊
