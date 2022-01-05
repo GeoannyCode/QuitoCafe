@@ -19,9 +19,7 @@ https://coffe-page.netlify.app
 ## Expresiones de Gratitud 🎁
 
 * Comenta a otros sobre este proyecto 📢
-* Invitame un café ☕: 
-* [ko-fi](https://ko-fi.com/geovannydev) 
-* [cafecito.app](https://cafecito.app/geovannydev)
+* Invitame un café ☕:[ko-fi](https://ko-fi.com/geovannydev) 
 
 ---
 ⌨️ con ❤️ por [geovannydev](https://github.com/geovannydev) 😊
